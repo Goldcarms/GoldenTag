@@ -1,5 +1,5 @@
-NEW UPDATE
+GoldenTag Update!
 
-1. Modvents Work and new moderation items
-2. New map and a WORKING MOON.
-3. New cosmetic shop
+Fixed Mod vents
+Added New mod Items
+Horror mode darker! Almost Done
